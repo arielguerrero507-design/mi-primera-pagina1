@@ -1,0 +1,28 @@
+
+div {
+ 
+    width: 2000px;
+    height: 200px;
+    background-color: darkgray;
+    text-align: center ;
+    font-size: 40px;
+  }
+
+  
+    
+
+     div#general {
+        margin:auto;
+        margin-top: 50px;
+    width: 600px;
+    height: 600px;
+    background-color: red;
+      }
+
+    div#general2 img { 
+    imgagen10.jpeg
+    widht: 500px;
+    height: 500px;
+    text-align: center;
+
+     }
